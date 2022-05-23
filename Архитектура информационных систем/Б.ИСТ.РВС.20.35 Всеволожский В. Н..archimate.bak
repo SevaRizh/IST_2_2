@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="(new model)" id="id-08c7c9c6112245e788f18a9e25dde3d7" version="4.9.0">
+  <folder name="Strategy" id="id-0b56f07802df471b96b2ba5ad4346749" type="strategy"/>
+  <folder name="Business" id="id-8980c5707d654b30a2ee7fb3447310a1" type="business"/>
+  <folder name="Application" id="id-c438b39899684679950e7c92e75851f9" type="application"/>
+  <folder name="Technology &amp; Physical" id="id-f5e47c07cb074b778bd887328f29db8d" type="technology"/>
+  <folder name="Motivation" id="id-cff311bd13634d5ba52748c755e080e5" type="motivation"/>
+  <folder name="Implementation &amp; Migration" id="id-0d88f490c927476c8e4f41ddb2e11fe1" type="implementation_migration"/>
+  <folder name="Other" id="id-20a4d97f6032436ead10c3dafb4cc1b8" type="other"/>
+  <folder name="Relations" id="id-e583df2dfa12448c9a1d68ff49212ecd" type="relations"/>
+  <folder name="Views" id="id-dbdb73bcff13461eaad5b03b69246598" type="diagrams">
+    <element xsi:type="archimate:ArchimateDiagramModel" name="ООО Рога и копыта" id="id-96752864dcf44155b533c448568b0006"/>
+  </folder>
+</archimate:model>
